@@ -1,6 +1,6 @@
 # Dolarizate - Tu Compañero de Cotizaciones de Dólar
 
-![Logo de Dolarizate](iconapp.jpg)
+![Logo de Dolarizate](iconapp-2.jpg)
 
 ## Descripción
 
