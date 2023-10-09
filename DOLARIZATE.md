@@ -25,7 +25,7 @@ Dolarizate consulta un archivo JSON alojado en la nube, el cual es generado y ac
 ## Capturas de Pantalla
 
 ![Captura de Pantalla 1](screen1-3.png)
-<img src="screen1.png" alt="Descripción de la imagen" width="200" height="434">
+<img src="screen1.png" alt="Descripción de la imagen" width="400" height="867">
 
 ## Contacto
 
