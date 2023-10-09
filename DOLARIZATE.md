@@ -1,6 +1,3 @@
-Por supuesto, aquí tienes un ejemplo de un archivo README para publicar en la página de soporte de tu aplicación iOS "Dolarizate":
-
-```markdown
 # Dolarizate - Tu Compañero de Cotizaciones de Dólar
 
 ![Logo de Dolarizate](enlace-a-tu-logo.png)
