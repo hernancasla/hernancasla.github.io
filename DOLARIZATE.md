@@ -33,6 +33,3 @@ Si tienes preguntas, sugerencias o necesitas asistencia, no dudes en contactarno
 ¡Gracias por elegir Dolarizate para mantenerte informado sobre las cotizaciones del dólar en Argentina!
 
 [Descargar desde la App Store](enlace-a-la-app-en-la-app-store)
-```
-
-Recuerda personalizar este README con enlaces a tus propias imágenes, enlaces de descarga desde la App Store y tu dirección de contacto. También, asegúrate de actualizar la versión de iOS compatible según lo necesario. Este README proporciona una descripción general de tu aplicación y sus características principales para los usuarios potenciales.
