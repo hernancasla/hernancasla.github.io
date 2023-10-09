@@ -1,6 +1,8 @@
 # Dolarizate - Tu Compañero de Cotizaciones de Dólar
 
 ![Logo de Dolarizate](iconapp-2.jpg)
+<!-- Imagen con tamaño personalizado -->
+<img src="iconapp-2.jpg" alt="Descripción de la imagen" width="300" height="200">
 
 ## Descripción
 
